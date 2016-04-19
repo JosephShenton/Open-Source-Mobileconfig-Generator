@@ -1,3 +1,13 @@
+/*
+*     
+*   Mobileconfig Generator 1.0.0-2
+*
+*   Author: Joseph Shenton
+*
+*   Open Sourced Under The MIT License
+*
+*/
+
 $(function () {
   $('#dlbutton').click(update);
   
