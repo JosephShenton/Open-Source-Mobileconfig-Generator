@@ -6,7 +6,7 @@ There is one more thing i should tell you is how to include this in your profile
 first create a credits page and include Mobileconfig generator script by Joseph Shenton also include the License for this script
 
 the at the bottom of your html page right before 
---` </body>` add ```<script src="generator.js"></script> ```
+--` </body>` 200```<script src="generator.js"></script> ```
 
 
 # License
